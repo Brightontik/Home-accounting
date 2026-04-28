@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="PlanOfCharacteristicKindPredefinedItems" version="2.20">
+	<Item id="e4da8f2b-1cee-48ab-8bff-a672858bc918">
+		<Name>ВходВСистему</Name>
+		<Code>000000003</Code>
+		<Description>Вход в систему</Description>
+		<Type>
+			<v8:Type>xs:boolean</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="b90d4dd9-55f2-4971-96e6-717beddd438e">
+		<Name>КонтрольЛимитов</Name>
+		<Code>000000001</Code>
+		<Description>Контроль лимитов</Description>
+		<Type>
+			<v8:Type>xs:boolean</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="292fd54e-763e-4a66-83d7-101405591ef7">
+		<Name>СинхронизацияПользователей</Name>
+		<Code>000000002</Code>
+		<Description>Синхронизация пользователей</Description>
+		<Type>
+			<v8:Type>xs:boolean</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
